@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 confict trong main
+=======
+confict trong testconfict
+>>>>>>> test_conflict
