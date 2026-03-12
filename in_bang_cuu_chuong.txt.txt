@@ -1,5 +1,11 @@
 Bang Cuu Chuong
+<<<<<<< HEAD
 
 2x2=2
 2x2=4
 2x3=6
+=======
+3x1=3
+3x2=6
+3x3=9
+>>>>>>> bangcuuchuong_3
